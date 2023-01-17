@@ -1,0 +1,1 @@
+Teste-Blobness-1: 0.776215 , interval: 0.011369

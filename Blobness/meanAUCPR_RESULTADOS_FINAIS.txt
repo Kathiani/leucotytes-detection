@@ -1,0 +1,200 @@
+Teste-or-2-minW-3-sigma-0.85: 0.200252 , interval: 0.010416
+Teste-or-2-minW-3-sigma-0.75: 0.048911 , interval: 0.004629
+Teste-or-2-minW-3-sigma-0.65: 0.179025 , interval: 0.011662
+Teste-or-2-minW-3-sigma-0.55: 0.602445 , interval: 0.014495
+Teste-or-2-minW-4-sigma-0.85: 0.203018 , interval: 0.010869
+Teste-or-2-minW-4-sigma-0.75: 0.193833 , interval: 0.014592
+Teste-or-2-minW-4-sigma-0.65: 0.419719 , interval: 0.014867
+Teste-or-2-minW-4-sigma-0.55: 0.658174 , interval: 0.011887
+Teste-or-2-minW-5-sigma-0.85: 0.308899 , interval: 0.017453
+Teste-or-2-minW-5-sigma-0.75: 0.366554 , interval: 0.018150
+Teste-or-2-minW-5-sigma-0.65: 0.542391 , interval: 0.013279
+Teste-or-2-minW-5-sigma-0.55: 0.691561 , interval: 0.010939
+Teste-or-2-minW-6-sigma-0.85: 0.418578 , interval: 0.019810
+Teste-or-2-minW-6-sigma-0.75: 0.500359 , interval: 0.016852
+Teste-or-2-minW-6-sigma-0.65: 0.610724 , interval: 0.011672
+Teste-or-2-minW-6-sigma-0.55: 0.703738 , interval: 0.010949
+Teste-or-2-minW-7-sigma-0.85: 0.491997 , interval: 0.018190
+Teste-or-2-minW-7-sigma-0.75: 0.558956 , interval: 0.013648
+Teste-or-2-minW-7-sigma-0.65: 0.661941 , interval: 0.012197
+Teste-or-2-minW-7-sigma-0.55: 0.710232 , interval: 0.011050
+Teste-or-2-minW-8-sigma-0.85: 0.535693 , interval: 0.014850
+Teste-or-2-minW-8-sigma-0.75: 0.584493 , interval: 0.012153
+Teste-or-2-minW-8-sigma-0.65: 0.710197 , interval: 0.012128
+Teste-or-2-minW-8-sigma-0.55: 0.704362 , interval: 0.011322
+Teste-or-2-minW-9-sigma-0.85: 0.539902 , interval: 0.013075
+Teste-or-2-minW-9-sigma-0.75: 0.615498 , interval: 0.011315
+Teste-or-2-minW-9-sigma-0.65: 0.717189 , interval: 0.010989
+Teste-or-2-minW-9-sigma-0.55: 0.705874 , interval: 0.010837
+Teste-or-2-minW-10-sigma-0.85: 0.545321 , interval: 0.011291
+Teste-or-2-minW-10-sigma-0.75: 0.632088 , interval: 0.011137
+Teste-or-2-minW-10-sigma-0.65: 0.689564 , interval: 0.010181
+Teste-or-2-minW-10-sigma-0.55: 0.706837 , interval: 0.010982
+
+******** Variando mult
+Teste-or-2-mult-1.5-sigma-0.65: 0.643121 , interval: 0.012450
+Teste-or-2-mult-1.7-sigma-0.65: 0.672499 , interval: 0.011647
+Teste-or-2-mult-1.9-sigma-0.65: 0.711479 , interval: 0.011261
+Teste-or-2-mult-2.3-sigma-0.65: 0.646052 , interval: 0.009152
+Teste-or-2-mult-2.5-sigma-0.65: 0.620077 , interval: 0.010765
+Teste-or-2-mult-2.7-sigma-0.65: 0.642134 , interval: 0.011997
+
+******** Variando Sigma
+
+Teste-or-2-mult-2.1-sigma-0.59: 0.731392 , interval: 0.009996
+Teste-or-2-mult-2.1-sigma-0.61: 0.727604 , interval: 0.010548
+Teste-or-2-mult-2.1-sigma-0.63: 0.720202 , interval: 0.010528
+Teste-or-2-mult-2.1-sigma-0.67: 0.708436 , interval: 0.011257
+Teste-or-2-mult-2.1-sigma-0.69: 0.697848 , interval: 0.011897
+Teste-or-2-mult-2.1-sigma-0.71: 0.683030 , interval: 0.012237
+
+******** 4 orientações
+Teste-or-4-minW-3-sigma-0.85: 0.171039 , interval: 0.009312
+Teste-or-4-minW-3-sigma-0.75: 0.077778 , interval: 0.008190
+Teste-or-4-minW-3-sigma-0.65: 0.393465 , interval: 0.016664
+Teste-or-4-minW-3-sigma-0.55: 0.650237 , interval: 0.013441
+Teste-or-4-minW-4-sigma-0.85: 0.232333 , interval: 0.013307
+Teste-or-4-minW-4-sigma-0.75: 0.319426 , interval: 0.019801
+Teste-or-4-minW-4-sigma-0.65: 0.568905 , interval: 0.015399
+Teste-or-4-minW-4-sigma-0.55: 0.676558 , interval: 0.012412
+Teste-or-4-minW-5-sigma-0.85: 0.362143 , interval: 0.020209
+Teste-or-4-minW-5-sigma-0.75: 0.473812 , interval: 0.018425
+Teste-or-4-minW-5-sigma-0.65: 0.646977 , interval: 0.012009
+Teste-or-4-minW-5-sigma-0.55: 0.681891 , interval: 0.012634
+Teste-or-4-minW-6-sigma-0.85: 0.463432 , interval: 0.019536
+Teste-or-4-minW-6-sigma-0.75: 0.569810 , interval: 0.015485
+Teste-or-4-minW-6-sigma-0.65: 0.700650 , interval: 0.011447
+Teste-or-4-minW-6-sigma-0.55: 0.653868 , interval: 0.013188
+Teste-or-4-minW-7-sigma-0.85: 0.538824 , interval: 0.017192
+Teste-or-4-minW-7-sigma-0.75: 0.612148 , interval: 0.012990
+Teste-or-4-minW-7-sigma-0.65: 0.724140 , interval: 0.012218
+Teste-or-4-minW-7-sigma-0.55: 0.621820 , interval: 0.013437
+Teste-or-4-minW-8-sigma-0.85: 0.579219 , interval: 0.014180
+Teste-or-4-minW-8-sigma-0.75: 0.644859 , interval: 0.012572
+Teste-or-4-minW-8-sigma-0.65: 0.726894 , interval: 0.011751
+Teste-or-4-minW-8-sigma-0.55: 0.613232 , interval: 0.013577
+Teste-or-4-minW-9-sigma-0.85: 0.589047 , interval: 0.013188
+Teste-or-4-minW-9-sigma-0.75: 0.655527 , interval: 0.012835
+Teste-or-4-minW-9-sigma-0.65: 0.696282 , interval: 0.010954
+Teste-or-4-minW-9-sigma-0.55: 0.615999 , interval: 0.013228
+Teste-or-4-minW-10-sigma-0.85: 0.605539 , interval: 0.011830
+Teste-or-4-minW-10-sigma-0.75: 0.657942 , interval: 0.011375
+Teste-or-4-minW-10-sigma-0.65: 0.650699 , interval: 0.011330
+Teste-or-4-minW-10-sigma-0.55: 0.619946 , interval: 0.011963
+
+********* Variando mult
+Teste-or-4-mult-1.5-sigma-0.65: 0.591172 , interval: 0.018691
+Teste-or-4-mult-1.7-sigma-0.65: 0.672764 , interval: 0.011927
+Teste-or-4-mult-1.9-sigma-0.65: 0.715319 , interval: 0.011086
+Teste-or-4-mult-2.3-sigma-0.65: 0.657537 , interval: 0.011295
+Teste-or-4-mult-2.5-sigma-0.65: 0.586900 , interval: 0.012098
+Teste-or-4-mult-2.7-sigma-0.65: 0.566156 , interval: 0.013295
+
+Variando Sigma
+
+Teste-or-4-mult-2.1-sigma-0.59: 0.736441 , interval: 0.010911
+Teste-or-4-mult-2.1-sigma-0.61: 0.731448 , interval: 0.010874
+Teste-or-4-mult-2.1-sigma-0.63: 0.727235 , interval: 0.011423
+Teste-or-4-mult-2.1-sigma-0.67: 0.718855 , interval: 0.011952
+Teste-or-4-mult-2.1-sigma-0.69: 0.713785 , interval: 0.012388
+Teste-or-4-mult-2.1-sigma-0.71: 0.696862 , interval: 0.013485
+
+
+Teste-or-6-minW-3-sigma-0.85: 0.156065 , interval: 0.009421
+Teste-or-6-minW-3-sigma-0.75: 0.077053 , interval: 0.008609
+Teste-or-6-minW-3-sigma-0.65: 0.448586 , interval: 0.017901
+Teste-or-6-minW-3-sigma-0.55: 0.684114 , interval: 0.013159
+Teste-or-6-minW-4-sigma-0.85: 0.250487 , interval: 0.014946
+Teste-or-6-minW-4-sigma-0.75: 0.343060 , interval: 0.019803
+Teste-or-6-minW-4-sigma-0.65: 0.601078 , interval: 0.014531
+Teste-or-6-minW-4-sigma-0.55: 0.695386 , interval: 0.011380
+Teste-or-6-minW-5-sigma-0.85: 0.415716 , interval: 0.020582
+Teste-or-6-minW-5-sigma-0.75: 0.501314 , interval: 0.017709
+Teste-or-6-minW-5-sigma-0.65: 0.660193 , interval: 0.011399
+Teste-or-6-minW-5-sigma-0.55: 0.673833 , interval: 0.011554
+Teste-or-6-minW-6-sigma-0.85: 0.510373 , interval: 0.018099
+Teste-or-6-minW-6-sigma-0.75: 0.578248 , interval: 0.015484
+Teste-or-6-minW-6-sigma-0.65: 0.689903 , interval: 0.011380
+Teste-or-6-minW-6-sigma-0.55: 0.653732 , interval: 0.013050
+Teste-or-6-minW-7-sigma-0.85: 0.572354 , interval: 0.017372
+Teste-or-6-minW-7-sigma-0.75: 0.633554 , interval: 0.014401
+Teste-or-6-minW-7-sigma-0.65: 0.707011 , interval: 0.011565
+Teste-or-6-minW-7-sigma-0.55: 0.638713 , interval: 0.013295
+Teste-or-6-minW-8-sigma-0.85: 0.599856 , interval: 0.014400
+Teste-or-6-minW-8-sigma-0.75: 0.655303 , interval: 0.012923
+Teste-or-6-minW-8-sigma-0.65: 0.710514 , interval: 0.011277
+Teste-or-6-minW-8-sigma-0.55: 0.625770 , interval: 0.013395
+Teste-or-6-minW-9-sigma-0.85: 0.614565 , interval: 0.013648
+Teste-or-6-minW-9-sigma-0.75: 0.664195 , interval: 0.013592
+Teste-or-6-minW-9-sigma-0.65: 0.690899 , interval: 0.011154
+Teste-or-6-minW-9-sigma-0.55: 0.619177 , interval: 0.013918
+Teste-or-6-minW-10-sigma-0.85: 0.608826 , interval: 0.013002
+Teste-or-6-minW-10-sigma-0.75: 0.657995 , interval: 0.012556
+Teste-or-6-minW-10-sigma-0.65: 0.655476 , interval: 0.011646
+Teste-or-6-minW-10-sigma-0.55: 0.618396 , interval: 0.013245
+
+****************** Variando mult
+Teste-or-6-mult-1.5-sigma-0.65: 0.607756 , interval: 0.016573
+Teste-or-6-mult-1.7-sigma-0.65: 0.634409 , interval: 0.013766
+Teste-or-6-mult-1.9-sigma-0.65: 0.680633 , interval: 0.012110
+Teste-or-6-mult-2.3-sigma-0.65: 0.674825 , interval: 0.012463
+Teste-or-6-mult-2.5-sigma-0.65: 0.622105 , interval: 0.012914
+Teste-or-6-mult-2.7-sigma-0.65: 0.614966 , interval: 0.013834
+
+***************** Variando Sigma
+Teste-or-6-mult-2.1-sigma-0.59: 0.704678 , interval: 0.010861
+Teste-or-6-mult-2.1-sigma-0.61: 0.713694 , interval: 0.011138
+Teste-or-6-mult-2.1-sigma-0.63: 0.708681 , interval: 0.011140
+Teste-or-6-mult-2.1-sigma-0.67: 0.712406 , interval: 0.011160
+Teste-or-6-mult-2.1-sigma-0.69: 0.711711 , interval: 0.011605
+Teste-or-6-mult-2.1-sigma-0.71: 0.707703 , interval: 0.012174
+
+Teste-or-4-sigma-0.59-k-2: 0.736441 , interval: 0.010911
+Teste-or-4-sigma-0.59-k-3: 0.736775 , interval: 0.010852
+Teste-or-4-sigma-0.59-k-4: 0.740547 , interval: 0.010883
+Teste-or-4-sigma-0.59-k-5: 0.744705 , interval: 0.010922
+Teste-or-4-sigma-0.59-k-6: 0.745539 , interval: 0.010785
+Teste-or-4-sigma-0.59-k-7: 0.748477 , interval: 0.010640
+Teste-or-4-sigma-0.59-k-8: 0.753009 , interval: 0.010415
+Teste-or-4-sigma-0.59-k-9: 0.754139 , interval: 0.010179
+
+Teste-or-4-sigma-0.59-cutOff-0.1: 0.656362 , interval: 0.011348
+Teste-or-4-sigma-0.59-cutOff-0.2: 0.690364 , interval: 0.011389
+Teste-or-4-sigma-0.59-cutOff-0.3: 0.735066 , interval: 0.010310
+Teste-or-4-sigma-0.59-cutOff-0.4: 0.754139 , interval: 0.010179
+Teste-or-4-sigma-0.59-cutOff-0.5: 0.727944 , interval: 0.011928
+Teste-or-4-sigma-0.59-cutOff-0.6: 0.571985 , interval: 0.013394
+Teste-or-4-sigma-0.59-cutOff-0.7: 0.225607 , interval: 0.011748
+Teste-or-4-sigma-0.59-cutOff-0.8: 0.011652 , interval: 0.003740
+Teste-or-4-sigma-0.59-cutOff-0.9: 0.000000 , interval: 0.000000
+
+Teste-or-4-sigma-0.59-g-2: 0.733254 , interval: 0.010120
+Teste-or-4-sigma-0.59-g-3: 0.750573 , interval: 0.010256
+Teste-or-4-sigma-0.59-g-4: 0.755815 , interval: 0.010650
+Teste-or-4-sigma-0.59-g-5: 0.761420 , interval: 0.010407
+Teste-or-4-sigma-0.59-g-6: 0.760572 , interval: 0.010628
+Teste-or-4-sigma-0.59-g-7: 0.757962 , interval: 0.010722
+Teste-or-4-sigma-0.59-g-8: 0.757593 , interval: 0.010672
+Teste-or-4-sigma-0.59-g-9: 0.757908 , interval: 0.010641
+Teste-or-4-sigma-0.59-g-10: 0.754139 , interval: 0.010179
+Teste-or-4-sigma-0.59-g-11: 0.751857 , interval: 0.010307
+
+Teste-or-4-sigma-0.59-alpha-0.1: 0.772802 , interval: 0.011279
+Teste-or-4-sigma-0.59-alpha-0.2: 0.770490 , interval: 0.010394
+Teste-or-4-sigma-0.59-alpha-0.3: 0.770689 , interval: 0.010220
+Teste-or-4-sigma-0.59-alpha-0.4: 0.762645 , interval: 0.010617
+Teste-or-4-sigma-0.59-alpha-0.5: 0.761420 , interval: 0.010407
+Teste-or-4-sigma-0.59-alpha-0.6: 0.754393 , interval: 0.010292
+Teste-or-4-sigma-0.59-alpha-0.7: 0.738429 , interval: 0.010557
+Teste-or-4-sigma-0.59-alpha-0.8: 0.722534 , interval: 0.011084
+Teste-or-4-sigma-0.59-alpha-0.9: 0.700649 , interval: 0.011275
+
+Teste-or-4-sigma-0.59-beta-0.1: 0.016471 , interval: 0.002912
+Teste-or-4-sigma-0.59-beta-0.2: 0.236463 , interval: 0.009383
+Teste-or-4-sigma-0.59-beta-0.3: 0.653383 , interval: 0.011302
+Teste-or-4-sigma-0.59-beta-0.4: 0.761457 , interval: 0.011492
+Teste-or-4-sigma-0.59-beta-0.5: 0.772802 , interval: 0.011279
+Teste-or-4-sigma-0.59-beta-0.6: 0.774531 , interval: 0.010929
+Teste-or-4-sigma-0.59-beta-0.7: 0.776215 , interval: 0.011369
+Teste-or-4-sigma-0.59-beta-0.8: 0.775845 , interval: 0.011155
+Teste-or-4-sigma-0.59-beta-0.9: 0.776140 , interval: 0.011113
