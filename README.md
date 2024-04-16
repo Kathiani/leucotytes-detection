@@ -1,5 +1,5 @@
 # leukocytes-detection
-This code in MATLAB is one of the artifacts generated during my master's degree. This program can read the number of leucocytes in video images obtained from mouse vessels. 
+This code in MATLAB is the artifact generated during my master's degree. This program can read the number of leucocytes in video images obtained from mouse vessels. 
 The images were provided by Juliana Carvalho-Tavares from Departamento de Fisiologia e Biofísica, UFMG.
 
 The results were published in The Revista de Informática Teórica e Aplicada (RITA) as follows:
